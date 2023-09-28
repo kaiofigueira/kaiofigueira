@@ -7,8 +7,6 @@ Página com a finalidade de disponibilizar projetos de Data Science.
 
 - 📫 Você me acha **kaiofigueira@gmail.com**
 
-- 📄 Sobre minhas experiências profissionais [https://www.linkedin.com/in/kaio-figueira-8b96b389/](https://www.linkedin.com/in/kaio-figueira-8b96b389/)
-
 - 🌱 Meus projetos:
 - https://github.com/kaiofigueira/FakeNewsDetectorProject
 - https://github.com/kaiofigueira/NewMetricReinforcementLearning
