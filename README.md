@@ -17,7 +17,8 @@ Página com a finalidade de disponibilizar projetos de Data Science.
   - <a href="https://github.com/kaiofigueira/Analise-de-series-temporais" target="_blank" rel="noreferrer">Análise de Series Temporais</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-predicao-textual" target="_blank" rel="noreferrer">Análise de Predição Textual</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-clusterizacao-de-texto-por-assunto" target="_blank" rel="noreferrer">Análise de clusterização de texto por assunto</a>
-  - <a href="https://github.com/kaiofigueira/Analise-de-teste-AB" target="_blank" rel="noreferrer">Análise de Teste AB</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-teste-AB" target="_blank" rel="noreferrer">Análise de teste AB</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-sistema-de-recomendacao-e-fatoracao-matricial" target="_blank" rel="noreferrer">Análise de sistema de recomendação com fatoração matricial</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
