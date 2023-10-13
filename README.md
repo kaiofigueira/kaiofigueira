@@ -14,6 +14,7 @@ Página com a finalidade de disponibilizar projetos de Data Science.
   - Análise de learning rate decay -> https://github.com/kaiofigueira/Analise-de-learning-rate-decay
   - Análise de visão computacional de detecção de objetos com selective-search -> https://github.com/kaiofigueira/Analise-de-deteccao-de-objetos-com-selective-search
   - Análise de GAN -> https://github.com/kaiofigueira/Analise-de-GAN/
+  - Análise de Series Temporais -> https://github.com/kaiofigueira/Analise-de-series-temporais
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
