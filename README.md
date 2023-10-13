@@ -8,15 +8,15 @@ Página com a finalidade de disponibilizar projetos de Data Science.
 - 📫 Você me acha **kaiofigueira@gmail.com**
 
 - 🌱 Meus projetos:
-  - Fakenews Detector -> https://github.com/kaiofigueira/FakeNewsDetectorProject
-  - Análise de uma metrica que criei de aprendizado por reforço -> https://github.com/kaiofigueira/NewMetricReinforcementLearning
-  - Análise de modelo linear e rede neural -> https://github.com/kaiofigueira/Analise-e-Comparacao-modelo-linear-e-rede-neural
-  - Análise de learning rate decay -> https://github.com/kaiofigueira/Analise-de-learning-rate-decay
-  - Análise de visão computacional de detecção de objetos com selective-search -> https://github.com/kaiofigueira/Analise-de-deteccao-de-objetos-com-selective-search
-  - Análise de GAN -> https://github.com/kaiofigueira/Analise-de-GAN/
-  - Análise de Series Temporais -> https://github.com/kaiofigueira/Analise-de-series-temporais
-  - Análise de Predição Textual -> https://github.com/kaiofigueira/Analise-de-predicao-textual
-  - Análise de clusterização de texto por assunto -> https://github.com/kaiofigueira/Analise-de-clusterizacao-de-texto-por-assunto
+  - <a href="https://github.com/kaiofigueira/FakeNewsDetectorProject" target="_blank" rel="noreferrer">Fakenews Detector</a> 
+  - <a href="https://github.com/kaiofigueira/NewMetricReinforcementLearning" target="_blank" rel="noreferrer">Análise de uma metrica que criei de aprendizado por reforço</a>
+  - <a href="https://github.com/kaiofigueira/Analise-e-Comparacao-modelo-linear-e-rede-neural" target="_blank" rel="noreferrer">Análise de modelo linear e rede neural</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-learning-rate-decay" target="_blank" rel="noreferrer">Análise de learning rate decay</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-deteccao-de-objetos-com-selective-search" target="_blank" rel="noreferrer">Análise de visão computacional de detecção de objetos com selective-search</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-GAN" target="_blank" rel="noreferrer">Análise de GAN</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-series-temporais" target="_blank" rel="noreferrer">Análise de Series Temporais</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-predicao-textual" target="_blank" rel="noreferrer">Análise de Predição Textual</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-clusterizacao-de-texto-por-assunto" target="_blank" rel="noreferrer">Análise de clusterização de texto por assunto</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-teste-AB" target="_blank" rel="noreferrer">Análise de Teste AB</a>
 
 <h3 align="left">Connect with me:</h3>
