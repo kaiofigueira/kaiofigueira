@@ -10,6 +10,7 @@ Página com a finalidade de disponibilizar projetos de Data Science.
 - 🌱 Meus projetos:
   - Fakenews Detector -> https://github.com/kaiofigueira/FakeNewsDetectorProject
   - Analise de uma metrica que criei -> https://github.com/kaiofigueira/NewMetricReinforcementLearning
+  - Analise e Comparação modelo linear e rede neural -> https://github.com/kaiofigueira/Analise-e-Comparacao-modelo-linear-e-rede-neural
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
