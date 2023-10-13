@@ -17,6 +17,7 @@ Página com a finalidade de disponibilizar projetos de Data Science.
   - Análise de Series Temporais -> https://github.com/kaiofigueira/Analise-de-series-temporais
   - Análise de Predição Textual -> https://github.com/kaiofigueira/Analise-de-predicao-textual
   - Análise de clusterização de texto por assunto -> https://github.com/kaiofigueira/Analise-de-clusterizacao-de-texto-por-assunto
+  - Análise de Teste AB -> https://github.com/kaiofigueira/Analise-de-teste-AB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
