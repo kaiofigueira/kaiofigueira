@@ -3,7 +3,7 @@ Página com a finalidade de disponibilizar projetos de Data Science.
 <h1 align="center">Olá 👋, eu sou Kaio Figueira</h1>
 <h3 align="center">Apaixonado por Ciência de dados</h3>
 
-- 💬 Me pergunte principalmente sobre **Python, Machine Learning, Estatística, Matemática, SQL, R, C#**, além de outras.
+- 💬 Pergunte-me principalmente sobre **Python, Machine Learning, Estatística, Matemática, SQL, R, C#**, além de outras.
 
 - 📫 Você me acha **kaiofigueira@gmail.com**
 
