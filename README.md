@@ -8,7 +8,8 @@ Página com a finalidade de disponibilizar projetos de Data Science.
 - 📫 Você me acha **kaiofigueira@gmail.com**
 
 - 🌱 Meus projetos:
-  - <a href="https://github.com/kaiofigueira/FakeNewsDetectorProject" target="_blank" rel="noreferrer">Fakenews Detector</a> 
+  - <a href="https://github.com/kaiofigueira/FakeNewsDetectorProject" target="_blank" rel="noreferrer">Fakenews Detector</a>
+- 🩺 Minhas análises:
   - <a href="https://github.com/kaiofigueira/NewMetricReinforcementLearning" target="_blank" rel="noreferrer">Análise de uma metrica que criei de aprendizado por reforço</a>
   - <a href="https://github.com/kaiofigueira/Analise-e-Comparacao-modelo-linear-e-rede-neural" target="_blank" rel="noreferrer">Análise de modelo linear e rede neural</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-learning-rate-decay" target="_blank" rel="noreferrer">Análise de learning rate decay</a>
@@ -19,6 +20,8 @@ Página com a finalidade de disponibilizar projetos de Data Science.
   - <a href="https://github.com/kaiofigueira/Analise-de-clusterizacao-de-texto-por-assunto" target="_blank" rel="noreferrer">Análise de clusterização de texto por assunto</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-teste-AB" target="_blank" rel="noreferrer">Análise de teste AB</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-sistema-de-recomendacao-e-fatoracao-matricial" target="_blank" rel="noreferrer">Análise de sistema de recomendação com fatoração matricial</a>
+  - <a href="https://github.com/kaiofigueira/Analise-de-clusterizacao-RFM" target="_blank" rel="noreferrer">Análise de clusterização RFM</a>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
