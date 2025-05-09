@@ -21,7 +21,10 @@ Página com a finalidade de disponibilizar projetos de Data Science.
   - <a href="https://github.com/kaiofigueira/Analise-de-teste-AB" target="_blank" rel="noreferrer">Análise de teste AB</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-sistema-de-recomendacao-e-fatoracao-matricial" target="_blank" rel="noreferrer">Análise de sistema de recomendação com fatoração matricial</a>
   - <a href="https://github.com/kaiofigueira/Analise-de-clusterizacao-RFM" target="_blank" rel="noreferrer">Análise de clusterização RFM</a>
-  
+- 💻 Outros projetos:
+  - <a href="https://github.com/kaiofigueira/documentador_sphinx" target="_blank" rel="noreferrer">Documentador Sphinx</a>
+  - <a href="https://github.com/kaiofigueira/tempo_processamento_tracker" target="_blank" rel="noreferrer">Tempo de Processamento Tracker</a>
+  - <a href="https://github.com/kaiofigueira/elona_mobile_stats_calculator" target="_blank" rel="noreferrer">Calculadora de stats para o jogo Elona Mobile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
