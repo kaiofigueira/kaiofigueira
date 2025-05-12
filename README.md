@@ -7,6 +7,8 @@ Página com a finalidade de disponibilizar projetos de Data Science.
 
 - 📫 Você me acha **kaiofigueira@gmail.com**
 
+- 🎓 MBA:
+  - <a href="https://github.com/kaiofigueira/MBA-Data-Science-and-Analitycs" target="_blank" rel="noreferrer">Exercícios e projetos do MBA em Data Science and Analytics da USP/Esalq</a>
 - 🌱 Meus projetos:
   - <a href="https://github.com/kaiofigueira/FakeNewsDetectorProject" target="_blank" rel="noreferrer">Fakenews Detector</a>
 - 🩺 Minhas análises:
