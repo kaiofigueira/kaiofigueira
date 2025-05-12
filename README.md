@@ -3,7 +3,7 @@
 
 - 💬 Pergunte-me principalmente sobre **Python, Machine Learning, Estatística, Matemática, SQL, R, C#**, além de outras.
 
-- 📫 Você me acha **kaiofigueira@gmail.com**
+- 📫 Você me acha: **kaiofigueira@gmail.com**
 
 - 🎓 MBA:
   - <a href="https://github.com/kaiofigueira/MBA-Data-Science-and-Analitycs" target="_blank" rel="noreferrer">Exercícios e projetos do MBA em Data Science and Analytics da USP/Esalq</a>
