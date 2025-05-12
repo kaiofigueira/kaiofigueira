@@ -1,5 +1,3 @@
-Página com a finalidade de disponibilizar projetos de Data Science.
-
 <h1 align="center">Olá 👋, eu sou Kaio Figueira</h1>
 <h3 align="center">Apaixonado por Ciência de dados</h3>
 
